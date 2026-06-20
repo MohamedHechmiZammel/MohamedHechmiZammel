@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hechmi-zammel-4aa184225)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedzammel1997@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedHechmiZammel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zammel-portfolio.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=MohamedHechmiZammel&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MohamedHechmiZammel)
 
 </div>
 
@@ -87,6 +88,28 @@ Currently focused on **safety-critical industrial AI** and **developer tooling f
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedHechmiZammel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHechmiZammel&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHechmiZammel&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedHechmiZammel&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedHechmiZammel/MohamedHechmiZammel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedHechmiZammel/MohamedHechmiZammel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MohamedHechmiZammel/MohamedHechmiZammel/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -125,4 +148,3 @@ Currently focused on **safety-critical industrial AI** and **developer tooling f
 **Let's build something that matters.**
 
 </div>
-
