@@ -19,8 +19,6 @@ I'm an **Electromechanical Engineer (M.Eng., ESPRIT Tunis)** working at the inte
 
 Complementary background in IIoT monitoring: MQTT pipelines, Node-RED dashboards, MTTR/MTBF/MTTA tracking, and maintenance analytics built on top of real industrial data (COFAT PFE — 5 production lines).
 
-Open to relocation — **France · Belgium · Netherlands · Ireland · Qatar**.
-
 ---
 
 ## Featured Projects
