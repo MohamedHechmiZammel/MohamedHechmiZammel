@@ -127,7 +127,6 @@ Open to relocation — **France · Belgium · Netherlands · Ireland · Qatar**.
 | Arabic | Native |
 | French | Professional |
 | English | Professional |
-| Dutch | A1 (actively learning — targeting Netherlands/Belgium) |
 
 ---
 
