@@ -138,7 +138,6 @@ Complementary background in IIoT monitoring: MQTT pipelines, Node-RED dashboards
 
 <div align="center">
 
-*Available for relocation — France · Belgium · Netherlands · Ireland · Qatar*  
 **Open to opportunities in industrial maintenance, Industry 4.0, and mechanical design.**
 
 </div>
