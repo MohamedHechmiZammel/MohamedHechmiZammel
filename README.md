@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mohamed+Hechmi+Zammel;IoT+Systems+Engineer;Industrial+AI+%7C+Embedded+Systems;Bridging+Hardware+and+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Mohamed+Hechmi+Zammel;Mechanical+Design+Engineer;Industrial+Maintenance+%7C+Industrie+4.0;SolidWorks+%7C+MQTT+%7C+Node-RED+%7C+Python" alt="Typing SVG" />
 
 <br/>
 
@@ -15,69 +15,69 @@
 
 ## About
 
-I'm an **Electromechanical Engineer (M.Eng., ESPRIT Tunis)** specializing in end-to-end IoT pipelines — from embedded firmware on ESP32/STM32 to cloud backends and ML-powered dashboards. I build systems where industrial machines generate data, AI interprets it, and decisions happen in real time.
+I'm an **Electromechanical Engineer (M.Eng., ESPRIT Tunis)** working at the intersection of mechanical design, industrial maintenance, and Industry 4.0 digitalization. Currently designing biogas processing equipment at **Methania** — SolidWorks from concept to manufacturing drawings, DFM/DFA, prototyping, and coordination with production teams.
 
-Currently focused on **safety-critical industrial AI** and **developer tooling for AI agents**.
+Complementary background in IIoT monitoring: MQTT pipelines, Node-RED dashboards, MTTR/MTBF/MTTA tracking, and maintenance analytics built on top of real industrial data (COFAT PFE — 5 production lines).
 
----
-
-## Flagship Projects
-
-### ShadowGrid — AI Industrial Oversight Platform
-> Two-layer architecture (Operations Floor + AI Oversight Floor) for safety-critical environments.
-> ML: IsolationForest + Gradient Boosting on AI4I 2020 dataset. KS-test drift detection, ModelDecision audit trail, multi-tenant isolation.
-
-`Python` `IsolationForest` `Gradient Boosting` `MQTT` `React + Vite` `Ports/Adapters`
+Open to relocation — **France · Belgium · Netherlands · Ireland · Qatar**.
 
 ---
 
-### MindVault — Developer Digital Twin
-> Local-first persistent context system for AI coding agents. Gives agents memory across sessions via structured SQLite storage with Fernet encryption.
+## Featured Projects
 
-`Python` `SQLite` `Fernet` `Typer CLI` `Ports/Adapters Architecture`
+### [fermentation-monitor](https://github.com/MohamedHechmiZammel/fermentation-monitor) — IoT Fermentation Activity Monitor
+> ESP32 + BMP280 + DHT22 → MQTT → FastAPI → React dashboard.  
+> Real-time CO₂ headspace pressure tracking with activity state classification (active / slow / finished).  
+> RBAC (viewer / operator / admin), JWT auth, SQLite WAL, Wokwi simulation at 60× compression.
+
+`ESP32` `MQTT` `FastAPI` `React` `SQLite` `Wokwi` `Python`
 
 ---
 
-### industrial-iot-reference — Factory Equipment Monitor
-> Modular monolith for real-time factory monitoring. High production-readiness. No-Docker constraint, clean architecture.
+### [latex-editor](https://github.com/MohamedHechmiZammel/latex-editor) — Browser-Based LaTeX Editor
+> Monaco Editor + Express + latexmk + pdfjs-dist.  
+> Real-time compilation, Socket.IO log streaming, SyncTeX source-PDF sync, multi-project workspaces.  
+> Auto-save, path-traversal protection, isolated build directories.
 
-`ESP32` `MQTT` `Node-RED` `Python` `HiveMQ` `Redis Streams`
+`Node.js` `Express` `Monaco Editor` `React` `Socket.IO` `LaTeX` `SyncTeX`
 
 ---
 
 ## More Projects
 
-- **Smart Greenhouse** — AI-powered IoT greenhouse: crop-disease prediction, weather forecasting, market analysis. `ESP32` `TensorFlow` `MQTT` `Node-RED`
-- **SCARA Robot + Computer Vision** — 4-DOF arm with real-time object detection and motion control. `Arduino` `OpenCV` `3D Printing`
-- **MES Material Tracking** — production monitoring with MTTR/MTBF reliability metrics. `Python` `WinDev`
-- **SAP PP Lifecycle Management** — end-to-end planning through production execution. `SAP PP`
-- **Fraud Detection** — anomaly-detection model for fraudulent transactions. `XGBoost` `Python`
+- **Smart Greenhouse** — Connected greenhouse: ESP32 + MQTT + Node-RED + TensorFlow + 3D-printed enclosures. `ESP32` `TensorFlow` `MQTT` `Node-RED`
+- **SCARA Robot Arm** — SolidWorks mechanical design + 3D printing + functional assembly + iterative validation. `SolidWorks` `3D Printing`
+- **MES Material Tracking + KPI Dashboard** — Production monitoring with MTTR/MTBF metrics. `Python` `WinDev` `Arduino`
+- **Anomaly Detection Pipeline** — Threshold-tuned anomaly detection with false-positive/negative minimization. `Python` `scikit-learn`
 
 ---
 
 ## Tech Stack
 
-**Embedded**
+**Mechanical & CAD**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D+Printing-222222?style=flat-square)
+![GD%26T](https://img.shields.io/badge/GD%26T-005BAC?style=flat-square)
+
+**Embedded & IoT**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-
-**IoT & Backend**
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**ML / AI**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+**Backend & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**ML / AI**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -91,10 +91,6 @@ Currently focused on **safety-critical industrial AI** and **developer tooling f
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHechmiZammel&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedHechmiZammel&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
@@ -116,11 +112,11 @@ Currently focused on **safety-critical industrial AI** and **developer tooling f
 
 ## Education
 
-**M.Eng. — Electromechanical Engineering (Mechatronics)**
-*ESPRIT School of Engineering, Tunis*
+**M.Eng. — Electromechanical Engineering (Mechatronics)**  
+*ESPRIT School of Engineering, Tunis · 2022–2025*
 
-**B.Eng. — Mechanical Engineering**
-*Higher Institute of Technological Studies (ISET) Ksar Hellal*
+**B.Eng. — Mechanical Engineering**  
+*Higher Institute of Technological Studies (ISET) Ksar Hellal · 2019–2022*
 
 ---
 
@@ -131,20 +127,21 @@ Currently focused on **safety-critical industrial AI** and **developer tooling f
 | Arabic | Native |
 | French | Professional |
 | English | Professional |
+| Dutch | A1 (actively learning — targeting Netherlands/Belgium) |
 
 ---
 
-## Currently Building
+## Certifications
 
-- **ShadowGrid** — accelerator applications submitted (YC S26, a16z, Antler Dubai)
-- **MindVault** — spec locked, active implementation
-- Learning **Embedded Linux**, **RTOS**, and **Edge AI** with TensorFlow Lite
+- NVIDIA — AI for Predictive Maintenance
+- NVIDIA — Anomaly Detection Applications
+- SolidWorks CSWA
 
 ---
 
 <div align="center">
 
-*Open to collaborations on IoT, industrial AI, and embedded systems.*
-**Let's build something that matters.**
+*Available for relocation — France · Belgium · Netherlands · Ireland · Qatar*  
+**Open to opportunities in industrial maintenance, Industry 4.0, and mechanical design.**
 
 </div>
