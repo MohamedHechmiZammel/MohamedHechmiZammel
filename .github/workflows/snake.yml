@@ -20,9 +20,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: MohamedHechmiZammel
+          # Blueprint palette: light output = drafting-paper mode, dark output = navy ground.
+          # Hex values sourced from zammel_portfolio/style.css (--ink/--line/--signal/--teal tokens).
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23A96700&color_dots=%23C4D2DE,%239FB3C4,%23688399,%23C77E00,%23A96700
+            dist/github-snake-dark.svg?color_snake=%23FFB627&color_dots=%2316293B,%2324394E,%233FBFA8,%23FFB627,%23E89A0C
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
